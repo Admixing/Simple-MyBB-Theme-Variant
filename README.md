@@ -1,2 +1,1 @@
-# Simple-MyBB-Theme-Variant
-A simple variant of the default MyBB theme.
+<img src="https://i.imgur.com/hkB2lWo.png">
